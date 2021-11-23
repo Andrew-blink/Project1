@@ -1,0 +1,43 @@
+body{
+  background-color: pink;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 100;
+  text-align: center;
+  text-decoration: none;
+  text-indent: none;
+  text-transform: none;
+  color: Red;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+  margin-top: 300px;
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 100;
+  text-align: center;
+  text-decoration: none;
+  text-indent: none;
+  text-transform: none;
+  color: Red;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: normal;
+}
+
+a {
+  color: Red;
+  text-decoration: none;
+}
+
+a:hover {
+ color: Pink;
+}
